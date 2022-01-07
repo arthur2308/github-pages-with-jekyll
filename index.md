@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Arthur Vibes
 
 You can use the [editor on GitHub](https://github.com/arthur2308/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Commiting a file through github is simple. 
+First create the repo locally on you system e.g. /Users/MyProject
+Then commit the files you have changed, using `git commit` then merge your changes by pushing them into you own branch and creating a pull request. 
+
 
 ### Markdown
 
@@ -11,15 +16,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 is a papa bear header
+## Header 2 is a mama bear header
+### Header 3 is a little bear-ito (burrito?) header 
 
 - Bulleted
 - List
+- Make love not bullets 
 
-1. Numbered
-2. List
+#Favorite things to do while in mexico. 
+1. Chicken Tacos
+2. Pork Tacos 
+3. Tacos de Pastor 
 
 **Bold** and _Italic_ and `Code` text
 
