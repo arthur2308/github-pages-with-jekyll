@@ -24,7 +24,7 @@ Syntax highlighted code block
 - List
 - Make love not bullets 
 
-#Favorite things to do while in mexico. 
+# Favorite things to do while in mexico. 
 1. Chicken Tacos
 2. Pork Tacos 
 3. Tacos de Pastor 
